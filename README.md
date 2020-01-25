@@ -6,4 +6,6 @@ Segmenting and Clustering Neighborhoods in Toronto-MarkCredentials.ipynb week 3 
 
 Segmenting and Clustering Neighborhoods in Singapore and Honolulu comparison (data preparation).ipynb added for Singapore and Honolulu venues comparison.
 
-*** more to add when assignment growth. 01/14/2020
+Capstone Project - (week 5).ipynb study selecting new pet store location in Singapore.
+pet_related_store.pkl, regular_venues.pkl, and pet_related_store.pkl are data files.
+*** more to add when assignment growth. 01/25/2020
